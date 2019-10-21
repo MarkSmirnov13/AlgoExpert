@@ -1,0 +1,12 @@
+*~
+
+.yarn-cache.*
+
+yarn-error.log*
+*.log
+
+package-lock.json
+
+.idea
+
+node_modules
