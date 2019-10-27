@@ -14,10 +14,6 @@ git clone https://github.com/MaximLukianchuk/AlgoExpert.git
 ```sh
 npm install
 ```
-or
-```sh
-yarn
-```
 
 ## Usage
 
