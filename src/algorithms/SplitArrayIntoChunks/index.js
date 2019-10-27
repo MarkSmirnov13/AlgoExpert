@@ -4,7 +4,7 @@
  * @param {number} n
  * @returns {Array}
  *
- * splitArrayIntoChunks([1, 2, 3, 4, 5], 2) -> [[1, 2],[3, 4],[5]]'
+ * splitArrayIntoChunks([1, 2, 3, 4, 5], 2) -> [[1, 2],[3, 4],[5]]
  */
 
 /**
