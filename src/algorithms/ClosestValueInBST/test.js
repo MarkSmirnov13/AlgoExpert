@@ -1,4 +1,4 @@
-import {findClosestValueInBST1, findClosestValueInBST2} from './index'
+import {findClosestValueInBST1, findClosestValueInBST2} from '.'
 import {BST} from '../../dataStructures/BST'
 
 test('Find closest value in binary search tree', () => {

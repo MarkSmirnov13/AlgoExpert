@@ -1,4 +1,4 @@
-import {sumOfTwoNumbersInArray1, sumOfTwoNumbersInArray2} from './index'
+import {sumOfTwoNumbersInArray1, sumOfTwoNumbersInArray2} from '.'
 
 test('Sum of tho numbers in array', () => {
   const arr = [2, 7, 11, 15]

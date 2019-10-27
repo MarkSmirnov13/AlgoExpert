@@ -1,8 +1,8 @@
 /**
  * Sum of two numbers in array
- * @param Array arr
- * @param number targetSum
- * @returns [number, number]
+ * @param {Array} arr
+ * @param {number} targetSum
+ * @returns {[number, number]}
  *
  * SumOfTwoNumbersInArray([2, 7, 11, 15], 17) -> [2, 15]
  */

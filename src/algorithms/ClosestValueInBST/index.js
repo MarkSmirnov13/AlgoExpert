@@ -1,8 +1,8 @@
 /**
  * Find closest value in binary search tree
- * @param Tree tree
- * @param number target
- * @returns number
+ * @param {Tree} tree
+ * @param {number} target
+ * @returns {number}
  *
  * findClosestValueInBinarySearchTree(<bst>, 12) -> 13
  */
