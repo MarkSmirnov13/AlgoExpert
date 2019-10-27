@@ -4,7 +4,7 @@
  * @param {number} targetSum
  * @returns {[number, number]}
  *
- * SumOfTwoNumbersInArray([2, 7, 11, 15], 17) -> [2, 15]
+ * sumOfTwoNumbersInArray([2, 7, 11, 15], 17) -> [2, 15]
  */
 
 /**
