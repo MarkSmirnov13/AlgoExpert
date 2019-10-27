@@ -33,7 +33,7 @@ function prepareStr(str) {
     return null
   }
 
-  return str.split('').reduce((accum, value) => {
+  return str.toLowerCase().match(/[a-z0-9]/g).reduce((accum, value) => {
     accum[value] = accum[value] ? accum[value] + 1 : 1
     return accum
   }, {})
